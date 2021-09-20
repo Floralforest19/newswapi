@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Floralforest19/projectswapi.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Floralforest19/projectswapi.git/static/js/main.fdae87e1.chunk.js",
+    "main.js.map": "/Floralforest19/projectswapi.git/static/js/main.fdae87e1.chunk.js.map",
+    "runtime-main.js": "/Floralforest19/projectswapi.git/static/js/runtime-main.8e3acdcb.js",
+    "runtime-main.js.map": "/Floralforest19/projectswapi.git/static/js/runtime-main.8e3acdcb.js.map",
+    "static/js/2.cba20660.chunk.js": "/Floralforest19/projectswapi.git/static/js/2.cba20660.chunk.js",
+    "static/js/2.cba20660.chunk.js.map": "/Floralforest19/projectswapi.git/static/js/2.cba20660.chunk.js.map",
+    "static/js/3.68f2ffe1.chunk.js": "/Floralforest19/projectswapi.git/static/js/3.68f2ffe1.chunk.js",
+    "static/js/3.68f2ffe1.chunk.js.map": "/Floralforest19/projectswapi.git/static/js/3.68f2ffe1.chunk.js.map",
+    "index.html": "/Floralforest19/projectswapi.git/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Floralforest19/projectswapi.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.cba20660.chunk.js.LICENSE.txt": "/Floralforest19/projectswapi.git/static/js/2.cba20660.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e3acdcb.js",
+    "static/js/2.cba20660.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.fdae87e1.chunk.js"
+  ]
+}
